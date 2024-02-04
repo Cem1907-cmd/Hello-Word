@@ -1,1 +1,1 @@
-print("cem")
+cem
