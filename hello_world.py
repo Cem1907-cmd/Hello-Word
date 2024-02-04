@@ -1,1 +1,1 @@
-cem
+print("cem")
